@@ -1,6 +1,6 @@
 module github.com/acheong08/ferroxide
 
-go 1.18
+go 1.20
 
 require (
 	github.com/ProtonMail/go-crypto v1.0.0
